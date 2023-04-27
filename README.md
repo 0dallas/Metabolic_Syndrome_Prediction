@@ -1,5 +1,5 @@
 # Metabolic_Syndrome_Prediction
-*Motivación*
+*Motivación*  
 El síndrome metabólico es un conjunto de afecciones médicas que incluyen obesidad abdominal, niveles elevados de azúcar en la sangre, presión arterial alta, niveles elevados de triglicéridos y niveles bajos de colesterol HDL ("buen" colesterol). Estas afecciones están relacionadas con un mayor riesgo de enfermedad cardiovascular, diabetes tipo 2 y otros problemas de salud.
 El tratamiento del síndrome metabólico generalmente implica cambios en el estilo de vida, como la pérdida de peso, el aumento de la actividad física y la adopción de una dieta saludable. En algunos casos, se pueden recetar medicamentos para tratar los diferentes componentes del síndrome metabólico. El tratamiento temprano y efectivo del síndrome metabólico puede ayudar a prevenir complicaciones graves de salud en el futuro.  
 
